@@ -1,2 +1,5 @@
 int num = 5
-string
+string word = "hi"
+
+print(num)
+print(word)
